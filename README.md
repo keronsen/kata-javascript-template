@@ -10,6 +10,10 @@ Template for doing TDD katas with JavaScript. Uses [Jasmine](http://pivotal.gith
 4. Open /src/example.js and fix the code to make the test pass
 5. Refresh /test/jasmine.html in the browser to run the tests again (2 passing)
 
+# Adding your own code and tests
+
+When adding files you must also update /test/jasmine.html with `<script>` tags to include them when running tests. Look for `example.js` and `example_test.js` to se how they are included.
+
 # Further reading
 
 - [Jasmine documentation](http://pivotal.github.io/jasmine/), especially [Expectations](http://pivotal.github.io/jasmine/#section-Expectations)
