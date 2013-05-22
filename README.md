@@ -2,7 +2,7 @@
 
 Template for doing TDD katas with JavaScript. Uses [Jasmine](http://pivotal.github.io/jasmine/) for testing.
 
-# Introduction
+# Instructions
 
 1. Fork the repo
 2. Open /test/jasmine.html in a browser to run the tests (1 passing, 1 failing)
