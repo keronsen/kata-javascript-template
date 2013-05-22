@@ -16,4 +16,5 @@ Further reading
 ===============
 
 [Jasmine documentation](http://pivotal.github.io/jasmine/), especially [Expectations](http://pivotal.github.io/jasmine/#section-Expectations)
+
 [JavaScript Reference & Guide (Mozilla Developer Network)](https://developer.mozilla.org/en/docs/JavaScript)
