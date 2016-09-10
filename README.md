@@ -1,6 +1,6 @@
 # kata-javascript-template
 
-Template for doing TDD katas with JavaScript. Uses [Jasmine](http://pivotal.github.io/jasmine/) for testing.
+Template for doing TDD katas with JavaScript. Uses [Jasmine](https://jasmine.github.io/) for testing.
 
 ## Instructions
 
@@ -16,5 +16,5 @@ When adding files you must also update /test/jasmine.html with `<script>` tags t
 
 ## Further reading
 
-- [Jasmine documentation](http://pivotal.github.io/jasmine/), especially [Expectations](http://pivotal.github.io/jasmine/#section-Expectations)
+- [Jasmine documentation](https://jasmine.github.io/), especially [Expectations](https://jasmine.github.io/2.5/introduction.html#section-Expectations)
 - [JavaScript Reference & Guide (Mozilla Developer Network)](https://developer.mozilla.org/en/docs/JavaScript)
